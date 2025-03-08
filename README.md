@@ -4,9 +4,9 @@
 💻 **Internet Informatics Technician** from IFSP  
 🚀 Passionate about technology, web development, and data analysis  
 
-## 🛠 Studied Technologies 
+## 🛠 Technologies I’ve Worked With
 - **Languages:** Python, Java, JavaScript, PHP  
-- **Front-end:** HTML, CSS, JavaScript, React.js and next.js
+- **Front-end:** HTML, CSS, JavaScript, React.js, Next.js
 - **Back-end:** Java (Spring Boot), PHP  
 - **Databases:** SQL, MySQL  
 - **Mobile Development:** Java  
