@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Hyago Souza!  
 
-<!--
-**SouzaHyago/SouzaHyago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Information Systems** student at USP  
+💻 **Internet Informatics Technician** from IFSP  
+🚀 Passionate about technology, web development, and data analysis  
 
-Here are some ideas to get you started:
+## 🛠 Studied Technologies 
+- **Languages:** Python, Java, JavaScript, PHP  
+- **Front-end:** HTML, CSS, JavaScript, React.js and next.js
+- **Back-end:** Java (Spring Boot), PHP  
+- **Databases:** SQL, MySQL  
+- **Mobile Development:** Java  
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning  
+- Full Stack Development  
+- C language  
+
+## 🌍 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/hyago-souza/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/souzahyago)  
+
+📩 **Email:** hysouza.dev@gmail.com 
+
